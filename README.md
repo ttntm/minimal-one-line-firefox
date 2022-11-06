@@ -4,7 +4,7 @@ Custom userChrome for Firefox to minimize the space used for url and tab bar:
 
 ![](./screenshot.png)
 
-_Working as of Nov. 1st 2022 with Firefox 107.0b8 on Fedora 36._
+_Working as of Nov. 6th 2022: Firefox 107.0b8 on Fedora 36 and 106.0 on Manjaro._
 
 ## Prerequisites & Setup
 
